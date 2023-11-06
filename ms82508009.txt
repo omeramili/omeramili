@@ -1,0 +1,5 @@
+{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "omeramili.github.io",
+  "Id": "c5fd8c4c-bba8-4559-bfd3-ea489fbd9921"
+}
